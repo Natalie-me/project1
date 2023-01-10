@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class class1 {
+public class class1 {
+    // my first project on java
 }
